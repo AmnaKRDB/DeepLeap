@@ -1,11 +1,7 @@
 
 '''
 TRAIN MODEL
-Jeff Thompson | 2016-17 | jeffreythompson.org
-
 Takes a text file, trains it into a word2vec model.
-
-(Then use TwoStageReduce.py to reduce to 2D)
 
 REQUIRES
 + gensim
